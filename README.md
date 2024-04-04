@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **clewanga/clewanga** is a ✨ Data Analyst ✨
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I forget names as soon as we stop speaking
--->
